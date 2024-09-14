@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgba(250, 242, 228, 0.873)
+}
+
+body{
+    font-family: Sans-Serif, Arial ;
+    margin: 0px;
+}
+
+body > header {
+    background-color: orange;
+    display: flex;
+    height: 12vh;
+    justify-content: space-around;
+   }
+
+h1{
+    margin: 25px 5px;
+}
+ul{
+    margin: 5px;
+}
+#nav-ul{
+    display: flex;
+}
+
+body > footer{
+    background-color: rgb(238, 137, 48);
+}
+
+a{font-style: italic;}
+a{color: rgb(134, 80, 46);}
